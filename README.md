@@ -2,9 +2,7 @@
 
 👋 Olá, sou **Guilherme Burkner Marques**, um desenvolvedor de 17 anos com grande interesse em tecnologia e desenvolvimento **Full-stack**.
 
-Tenho experiência com diversas linguagens e tecnologias, incluindo **PHP**, **JavaScript**, **HTML**, **Python**, **MySQL**, **TypeScript** e **React**. Estou sempre explorando novas ferramentas e frameworks para aprimorar minhas habilidades. Alguns que eu uso são **Git**, **GitHub**, **Postman** e **Figma**.
-
-Além disso, tenho vários projetos de **jogos** e **aplicações web** que me ajudam a expandir meu conhecimento e aplicar o que aprendi em diferentes contextos.
+Tenho experiência com diversas linguagens e tecnologias, incluindo **PHP**, **JavaScript**, **HTML**, **Python**, **MySQL**, **TypeScript** e **React**. Estou sempre explorando novas ferramentas e frameworks para aprimorar minhas habilidades. Alguns que eu uso são **Git**, **GitHub**, **Postman** e **Figma**. Além disso, tenho vários projetos de **jogos** e **aplicações web** que me ajudam a expandir meu conhecimento e aplicar o que aprendi em diferentes contextos.
 
 ### Formação:
 
