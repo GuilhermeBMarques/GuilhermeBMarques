@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7308EF&size=35&width=1000&lines=Saiba+mais+sobre+mim...)](https://git.io/typing-svg) 
 
-👋 Olá, sou **Guilherme Burkner Marques**, um desenvolvedor de 17 anos com grande interesse em tecnologia e desenvolvimento **Full-stack**.
-
-Tenho experiência com diversas linguagens e tecnologias, incluindo **PHP**, **JavaScript**, **HTML**, **Python**, **MySQL**, **TypeScript** e **React**. Estou sempre explorando novas ferramentas e frameworks para aprimorar minhas habilidades. Alguns que eu uso são **Git**, **GitHub**, **Postman** e **Figma**. Além disso, tenho vários projetos de **jogos** e **aplicações web** que me ajudam a expandir meu conhecimento e aplicar o que aprendi em diferentes contextos.
+👋 Olá, sou **Guilherme Burkner Marques**, um desenvolvedor de 17 anos com grande interesse em tecnologia e desenvolvimento **Full-stack**. Tenho experiência com diversas linguagens e tecnologias, incluindo **PHP**, **JavaScript**, **HTML**, **Python**, **MySQL**, **TypeScript** e **React**. Estou sempre explorando novas ferramentas e frameworks para aprimorar minhas habilidades. Alguns que eu uso são **Git**, **GitHub**, **Postman** e **Figma**. Além disso, tenho vários projetos de **jogos** e **aplicações web** que me ajudam a expandir meu conhecimento e aplicar o que aprendi em diferentes contextos.
 
 ### Formação:
 
