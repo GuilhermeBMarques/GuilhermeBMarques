@@ -2,7 +2,7 @@
 
 👋 Olá, sou **Guilherme Burkner Marques**, um desenvolvedor de 17 anos com grande interesse em tecnologia e desenvolvimento **Full-stack**. Tenho conhecimento com diversas linguagens e tecnologias, incluindo **PHP**, **JavaScript**, **HTML**, **Python**, **MySQL**, **TypeScript**, **React** e **GML**. Estou sempre explorando novas ferramentas e frameworks para aprimorar minhas habilidades. Alguns que eu uso são **Git**, **GitHub**, **Postman**, **Bootstrap** e **Figma**. Além disso, tenho vários projetos de **jogos** e **aplicações web** que me ajudam a expandir meu conhecimento e aplicar o que aprendi em diferentes contextos.
 
-### Formação:
+### Formação
 
 - **Técnico em Desenvolvimento de Sistemas** pelo **Senac**.
 
@@ -14,7 +14,7 @@ Atualmente, estou em busca da minha primeira oportunidade profissional como dese
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7308EF&size=35&center=true&vCenter=true&width=1000&lines=Seja+Bem-vindo!+:%29)](https://git.io/typing-svg) 
 
-### 👨‍💻 Skills:
+### 👨‍💻 Skills
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)
@@ -25,17 +25,17 @@ Atualmente, estou em busca da minha primeira oportunidade profissional como dese
 ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-0D1117.svg?style=for-the-badge&logo=mysql&labelColor=0D1117)
 ![GML](https://img.shields.io/badge/GameMaker_Language-0D1117?style=for-the-badge&logo=game-maker&labelColor=0D1117)
 
-### 🛠️ Tools & Frameworks:
+### 🛠️ Tools & Frameworks
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)
 ![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
 ![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&labelColor=0D1117)
 
-### 📚 Currently Studying:
+### 📚 Currently Studying
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)
 
-### 🚀 Wanting to Learn:
+### 🚀 Wanting to Learn
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=Csharp&logoColor=purple&labelColor=0D1117)
 
 <br>
