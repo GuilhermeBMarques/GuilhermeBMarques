@@ -8,8 +8,18 @@
 
 <br>
 
-Atualmente, estou em busca da minha primeira oportunidade profissional como desenvolvedor. Sinta-se à vontade para se conectar comigo no [Instagram](https://www.instagram.com/s2_guikkkj), [LinkedIn](https://www.linkedin.com/in/guilherme-b-m-183259275/?trk=opento_sprofile_goalscard) ou [Gmail](mailto:guimc0507@gmail.com) para saber mais sobre mim.
+Atualmente, estou em busca da minha primeira oportunidade profissional como desenvolvedor. Sinta-se à vontade para se conectar comigo no 
 
+<a href="https://www.instagram.com/s2_guikkkj" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  
+<a href="https://www.linkedin.com/in/guilherme-b-m-183259275/?trk=opento_sprofile_goalscard" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+<a href = "mailto:guimc0507@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+<br>
 <br>
 
 <div align="center">  
