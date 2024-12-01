@@ -8,7 +8,7 @@
 
 <br>
 
-Atualmente, estou em busca da minha primeira oportunidade profissional como desenvolvedor. Sinta-se à vontade para se conectar comigo no [Instagram](https://www.instagram.com/s2_guikkkj), [LinkedIn](https://www.linkedin.com/in/guilherme-b-m-183259275/?trk=opento_sprofile_goalscard) ou [Gmail](mailto:guimc0507@gmail.com) para saber mais sobre meu trabalho ou apenas para conversar sobre tecnologia! 😊
+Atualmente, estou em busca da minha primeira oportunidade profissional como desenvolvedor. Sinta-se à vontade para se conectar comigo no [Instagram](https://www.instagram.com/s2_guikkkj), [LinkedIn](https://www.linkedin.com/in/guilherme-b-m-183259275/?trk=opento_sprofile_goalscard) ou [Gmail](mailto:guimc0507@gmail.com) para saber mais sobre mim.
 
 <br>
 
