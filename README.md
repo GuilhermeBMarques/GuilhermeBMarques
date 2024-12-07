@@ -39,7 +39,7 @@ Atualmente, estou em busca da minha primeira oportunidade profissional como dese
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&labelColor=0D1117)
 ![MySQL Workbench](https://img.shields.io/badge/MySQL-0D1117.svg?style=for-the-badge&logo=mysql&labelColor=0D1117)
-![GML](https://img.shields.io/badge/GameMaker_Language-0D1117?style=for-the-badge&logo=game-maker&labelColor=0D1117)
+![GML](https://img.shields.io/badge/GML-0D1117?style=for-the-badge&logo=game-maker&labelColor=0D1117)
 
 ### 🛠️ Tools & Frameworks
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)
