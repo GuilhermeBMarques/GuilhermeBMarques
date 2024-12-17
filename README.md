@@ -31,8 +31,8 @@ Atualmente, estou em busca da minha primeira oportunidade profissional como dese
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7308EF&size=35&center=true&vCenter=true&width=1000&lines=Seja+Bem-vindo!+:%29)](https://git.io/typing-svg) 
 
 ### 👨‍💻 Skills
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)
+![Node.JS](https://img.shields.io/badge/-Node-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)
+![React.js](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)
 ![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)
