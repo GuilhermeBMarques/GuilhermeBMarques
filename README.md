@@ -23,7 +23,7 @@ Atualmente, estou em busca da minha primeira oportunidade profissional como dese
 <br>
 
 <div align="center">  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeBMarques&layout=compact&hide_border=true&title_color=7308EF&text_color=ffff&bg_color=0D1117"/>
+  <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeBMarques&layout=compact&hide_border=true&title_color=7308EF&text_color=ffff&bg_color=0D1117"/>
 </div>
 
 <br>
