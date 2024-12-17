@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7308EF&size=35&width=1000&lines=Hello+Hello...;Saiba+mais+sobre+mim...)](https://git.io/typing-svg) 
 
-👋 Olá, sou desenvolvedor **Full-stack**. Tenho conhecimento com diversas linguagens e tecnologias, incluindo **PHP**, **JavaScript**, **HTML**, **Python**, **MySQL**, **TypeScript**, **React** e **GML**. Estou sempre explorando novas ferramentas e frameworks para aprimorar minhas habilidades. Alguns que eu uso são **Git**, **GitHub**, **Postman**, **Bootstrap** e **Figma**. Além disso, tenho vários projetos de **jogos** e **aplicações web** que me ajudam a expandir meu conhecimento e aplicar o que aprendi em diferentes contextos.
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> Olá, sou desenvolvedor **Full-stack**. Tenho conhecimento com diversas linguagens e tecnologias, incluindo **PHP**, **JavaScript**, **HTML**, **Python**, **MySQL**, **TypeScript**, **React** e **GML**. Estou sempre explorando novas ferramentas e frameworks para aprimorar minhas habilidades. Alguns que eu uso são **Git**, **GitHub**, **Postman**, **Bootstrap** e **Figma**. Além disso, tenho vários projetos de **jogos** e **aplicações web** que me ajudam a expandir meu conhecimento e aplicar o que aprendi em diferentes contextos.
 
 ### Formação
 
