@@ -50,7 +50,7 @@ Atualmente, estou em busca da minha primeira oportunidade profissional como dese
 ![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&labelColor=0D1117)
 
 ### 📚 Currently Studying
-![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&labelColor=0D1117)
+![Excel](https://img.shields.io/badge/-Excel-0D1117?style=for-the-badge&logo=microsoft-excel&labelColor=0D1117)
 
 ### 🚀 Wanting to Learn
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=Csharp&logoColor=purple&labelColor=0D1117)
