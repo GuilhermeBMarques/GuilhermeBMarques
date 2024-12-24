@@ -56,6 +56,10 @@ Atualmente, estou em busca da minha primeira oportunidade profissional como dese
 ### 🚀 Wanting to Learn
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=Csharp&logoColor=purple&labelColor=0D1117)
 
+### 🚧 Projects in Development
+- [**RPG Game**](): A game developed in GameMaker Studio, with unique mechanics and dynamic exploration.
+- [**Pokémon App**](): A React Native application integrated with PokéAPI, allowing search and display of information about Pokémon.
+
 <br>
 <hr>
 
