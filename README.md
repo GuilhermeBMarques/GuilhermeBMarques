@@ -52,6 +52,7 @@ Atualmente, estou em busca da minha primeira oportunidade profissional como dese
 
 ### 📚 Currently Studying
 ![Excel](https://img.shields.io/badge/-Excel-0D1117?style=for-the-badge&logo=microsoft-excel&labelColor=0D1117)
+![Power BI](https://img.shields.io/badge/-PowerBI-0D1117?style=for-the-badge&logo=microsoft-PowerBI&labelColor=0D1117)
 
 ### 🚀 Wanting to Learn
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=Csharp&logoColor=purple&labelColor=0D1117)
