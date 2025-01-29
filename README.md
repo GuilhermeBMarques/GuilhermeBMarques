@@ -50,12 +50,14 @@ Atualmente, estou em busca da minha primeira oportunidade profissional como dese
 ![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
 ![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&labelColor=0D1117)
 
+<!--
 ### 📚 Currently Studying
 ![Excel](https://img.shields.io/badge/-Excel-0D1117?style=for-the-badge&logo=microsoft-excel&labelColor=0D1117)
 ![Power BI](https://img.shields.io/badge/-PowerBI-0D1117?style=for-the-badge&logo=microsoft-PowerBI&labelColor=0D1117)
 
 ### 🚀 Wanting to Learn
 
+-->
 
 ### 🚧 Projects in Development
 - [**RPG Game**](): Um jogo desenvolvido no GameMaker Studio, com mecânicas únicas e exploração dinâmica.
