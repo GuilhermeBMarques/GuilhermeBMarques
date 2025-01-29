@@ -50,6 +50,8 @@ Atualmente, estou em busca da minha primeira oportunidade profissional como dese
 ![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
 ![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&labelColor=0D1117)
 
+<br>
+
 <!--
 ### 📚 Currently Studying
 ![Excel](https://img.shields.io/badge/-Excel-0D1117?style=for-the-badge&logo=microsoft-excel&labelColor=0D1117)
@@ -58,6 +60,11 @@ Atualmente, estou em busca da minha primeira oportunidade profissional como dese
 ### 🚀 Wanting to Learn
 
 -->
+
+### 🕹️ Last Project Developed
+- [**Pokémon Search App**](https://github.com/GuilhermeBMarques/PokemonSearchApp): A React Native application that integrates with the PokéAPI to display detailed data about Pokémon, allowing you to search and display information such as types, sprites, abilities and generations
+
+<br>
 
 ### 🚧 Projects in Development
 - [**RPG Game**](): Um jogo desenvolvido no GameMaker Studio, com mecânicas únicas e exploração dinâmica.
