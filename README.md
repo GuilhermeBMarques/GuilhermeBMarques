@@ -62,12 +62,12 @@ Atualmente, estou em busca da minha primeira oportunidade profissional como dese
 -->
 
 ### 🕹️ Last Project Developed
-- [**Pokedex-React**](https://github.com/GuilhermeBMarques/Pokedex-React): Uma aplicação React Native que integra com a PokéAPI para exibir dados detalhados sobre os Pokémon, permitindo a busca e exibição de informações como tipos, sprites, habilidades e gerações.
+- [**Pokedex-React**](https://github.com/GuilhermeBMarques/Pokedex-React) Uma aplicação React Native que integra com a PokéAPI para exibir dados detalhados sobre os Pokémon, permitindo a busca e exibição de informações como tipos, sprites, habilidades e gerações.
 
 <br>
 
 ### 🚧 Projects in Development
-- [**RPG Game**](): Um jogo desenvolvido no GameMaker Studio, com mecânicas únicas e exploração dinâmica.
+- [**RPG Game**]() Um jogo desenvolvido no GameMaker Studio, com mecânicas únicas e exploração dinâmica.
 
 <br>
 <hr>
