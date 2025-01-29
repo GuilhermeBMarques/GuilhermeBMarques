@@ -62,7 +62,7 @@ Atualmente, estou em busca da minha primeira oportunidade profissional como dese
 -->
 
 ### 🕹️ Last Project Developed
-- [**Pokémon Search App**](https://github.com/GuilhermeBMarques/PokemonSearchApp): A React Native application that integrates with the PokéAPI to display detailed data about Pokémon, allowing you to search and display information such as types, sprites, abilities and generations
+- [**Pokedex-React**](https://github.com/GuilhermeBMarques/Pokedex-React): A React Native application that integrates with the PokéAPI to display detailed data about Pokémon, allowing you to search and display information such as types, sprites, abilities and generations
 
 <br>
 
