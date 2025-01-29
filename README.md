@@ -55,11 +55,10 @@ Atualmente, estou em busca da minha primeira oportunidade profissional como dese
 ![Power BI](https://img.shields.io/badge/-PowerBI-0D1117?style=for-the-badge&logo=microsoft-PowerBI&labelColor=0D1117)
 
 ### 🚀 Wanting to Learn
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=Csharp&logoColor=purple&labelColor=0D1117)
+
 
 ### 🚧 Projects in Development
 - [**RPG Game**](): Um jogo desenvolvido no GameMaker Studio, com mecânicas únicas e exploração dinâmica.
-- [**Pokémon App**](): Um aplicativo React Native integrado ao PokéAPI, permitindo busca e exibição de informações sobre Pokémon.
 
 <br>
 <hr>
