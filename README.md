@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7308EF&size=35&width=1000&lines=Olá+Olá...;Saiba+mais+sobre+mim...)](https://git.io/typing-svg) 
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> Olá, sou desenvolvedor **Full-stack**. Tenho conhecimento com diversas linguagens e tecnologias, incluindo **PHP**, **JavaScript**, **HTML**, **Python**, **MySQL**, **TypeScript**, **React** e **GML**. Estou sempre explorando novas ferramentas e frameworks para aprimorar minhas habilidades. Alguns que eu uso são **Git**, **GitHub**, **Postman**, **Bootstrap** e **Figma**. Além disso, tenho vários projetos de **jogos** e **aplicações web** que me ajudam a expandir meu conhecimento e aplicar o que aprendi em diferentes contextos.
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> Olá, sou desenvolvedor **Full-stack**. Tenho conhecimento com diversas linguagens e tecnologias, incluindo **PHP**, **JavaScript**, **HTML**, **Python**, **MySQL**, **TypeScript** e **React**. Estou sempre explorando novas ferramentas e frameworks para aprimorar minhas habilidades. Alguns que eu uso são **Git**, **GitHub**, **Postman**, **Bootstrap** e **Figma**. Além disso, tenho vários projetos de **jogos** e **aplicações web** que me ajudam a expandir meu conhecimento e aplicar o que aprendi em diferentes contextos.
 
 ### Formação
 
@@ -41,7 +41,6 @@ Atualmente, estou em busca da minha primeira oportunidade profissional como dese
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&labelColor=0D1117)
 ![MySQL Workbench](https://img.shields.io/badge/MySQL-0D1117.svg?style=for-the-badge&logo=mysql&labelColor=0D1117)
-![GML](https://img.shields.io/badge/GML-0D1117?style=for-the-badge&logo=game-maker&labelColor=0D1117)
 
 ### 🛠️ Tools & Frameworks
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)
@@ -63,10 +62,6 @@ Atualmente, estou em busca da minha primeira oportunidade profissional como dese
 
 ### 🕹️ Last Project Developed
 - [**Pokedex-React**](https://github.com/GuilhermeBMarques/Pokedex-React) Uma aplicação React Native que integra com a PokéAPI para exibir dados detalhados sobre os Pokémon, permitindo a busca e exibição de informações.
-<br>
-
-### 🚧 Projects in Development
-- [**RPG Game**]() Um jogo desenvolvido no GameMaker Studio, com mecânicas únicas e exploração dinâmica.
 
 <br>
 <hr>
