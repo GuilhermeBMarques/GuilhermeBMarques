@@ -9,7 +9,7 @@
 
 <br>
 
-Atualmente, estou em busca da minha primeira oportunidade profissional como desenvolvedor. Sinta-se à vontade para se conectar comigo no 
+Sinta-se à vontade para se conectar comigo no 
 
 <a href="https://www.instagram.com/s2_guikkkj" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
