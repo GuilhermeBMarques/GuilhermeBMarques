@@ -6,6 +6,7 @@
 
 - **Técnico em Desenvolvimento de Sistemas** pelo **Senac**.
 - **Desenvolvimento em Python** pelo **Senac**.
+- **Formação em Excel** pelo **Informatize**
 
 <br>
 
